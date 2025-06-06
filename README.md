@@ -109,7 +109,7 @@ VERSION
 
 AUTHOR
 ------
-Sample Browser Application
+Claude Opus 4 w HITL
 
 LICENSE
 -------
